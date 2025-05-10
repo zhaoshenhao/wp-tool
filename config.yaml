@@ -1,0 +1,24 @@
+# WordPress配置
+wp_url: "https://www.mymaplelife.com/blog/xmlrpc.php"
+wp_username: "allen"
+wp_password: "A@ETmkj#qA7IfV)aOJ^T7#3^"
+
+# 输出配置
+output_dir: "xhs_images"  # 图片保存目录
+
+# 字体配置
+title_font_size: 40      # 标题字体大小
+content_font_size: 30    # 正文字体大小
+# font_path: "C:/Windows/Fonts/msyh.ttc"  # 使用微软雅黑
+
+remove_images: true     # 是否去掉原文中的图片
+
+image:
+  width: 800     # 图片宽度
+  height: 1440   # 文字图片高度
+  quality: 95    # 图片质量
+  
+text:
+  font_size: 30       # 正文字体大小
+  title_font_size: 40 # 标题字体大小
+  line_spacing: 10    # 行间距

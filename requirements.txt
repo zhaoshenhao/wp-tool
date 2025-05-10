@@ -1,0 +1,7 @@
+python-wordpress-xmlrpc
+pillow
+requests
+matplotlib
+numpy
+pyyaml
+beautifulsoup4
